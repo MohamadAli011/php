@@ -1,1 +1,1 @@
-variable-function skip
+variable-function sampai is function skip
